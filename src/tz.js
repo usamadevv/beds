@@ -1,0 +1,1 @@
+export const tz='http://13.59.30.246:3000/api'
